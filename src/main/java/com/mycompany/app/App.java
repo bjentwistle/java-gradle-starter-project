@@ -52,7 +52,7 @@ public class App extends Application {
         // An API key is required to enable access to services, web maps, and web scenes hosted in ArcGIS Online.
         // If you haven't already, go to your developer dashboard to get your API key.
         // Please refer to https://developers.arcgis.com/java/get-started/ for more information
-        String yourApiKey = "YOUR_API_KEY";
+        String yourApiKey = "AAPKaa4404f68945465eaaf83c8901864a9ao_8vWkWy0craH0_JaOez8bBBc1oDVSRp52fkYoM3fKO1OH6bCA4r1C2VWxlnZwRo";
         ArcGISRuntimeEnvironment.setApiKey(yourApiKey);
 
         // create a MapView to display the map and add it to the stack pane
